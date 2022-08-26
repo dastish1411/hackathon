@@ -1,0 +1,29 @@
+[
+    {
+        "id": "195826",
+        "title": "Iphone 13 Pro",
+        "price": 90000,
+        "date_created": "26.08.22. 19:58",
+        "date_updated": "\u0415\u0449\u0435 \u043d\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d",
+        "description": "Good phone!",
+        "status": "\u043f\u0440\u043e\u0434\u0430\u0435\u0442\u0441\u044f"
+    },
+    {
+        "id": "195903",
+        "title": "Poco X3 Pro",
+        "price": 30000,
+        "date_created": "26.08.22. 19:59",
+        "date_updated": "\u0415\u0449\u0435 \u043d\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d",
+        "description": "Good phone",
+        "status": "\u043f\u0440\u043e\u0434\u0430\u0435\u0442\u0441\u044f"
+    },
+    {
+        "id": "195951",
+        "title": "Samsung S21",
+        "price": 78000,
+        "date_created": "26.08.22. 20:00",
+        "date_updated": "\u0415\u0449\u0435 \u043d\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d",
+        "description": "Good phone",
+        "status": "\u043f\u0440\u043e\u0434\u0430\u043d"
+    }
+]
